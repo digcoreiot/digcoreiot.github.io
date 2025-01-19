@@ -1,0 +1,1 @@
+import{_ as t,a as o,o as n,d as a,w as s,e as c}from"./index-DjAcCz50.js";const r={};function _(p,f){const e=o("van-button");return n(),a(e,{type:"primary"},{default:s(()=>[c("test")]),_:1})}const i=t(r,[["render",_]]);export{i as default};
